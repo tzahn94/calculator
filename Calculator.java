@@ -23,11 +23,11 @@ public class Calculator extends JFrame implements ActionListener
 	private JButton btSub = new JButton("-");
 	private JButton btDiv = new JButton("/");
 	private JButton btMul= new JButton("*");
-	private JButton btLoes = new JButton("Löschen");
+	private JButton btLoes = new JButton("LÃ¶schen");
 	
-	//Ergebnis-Label
-	private JLabel text1 = new JLabel("Bitte Zahl 1 einfügen:");
-	private JLabel text2 = new JLabel("Bitte Zahl 2 einfügen:");
+	//Label
+	private JLabel text1 = new JLabel("Bitte Zahl 1 einfÃ¼gen:");
+	private JLabel text2 = new JLabel("Bitte Zahl 2 einfÃ¼gen:");
 	private JLabel text3 = new JLabel("Auswahl der Rechenoperation:");
 	private JLabel textErg = new JLabel("Ergebnis");
 	
